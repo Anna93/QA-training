@@ -1,2 +1,2 @@
-# QA-training
+# QA
 qa training
